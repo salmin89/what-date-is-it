@@ -9,7 +9,7 @@ function getReadme() {
   })
 }
 
-test('adds 1 + 2 to equal 3', async () => {
+test('Make sure the date is correct!', async () => {
   const readmeStr = await getReadme();
   const readmeDate = new Date(readmeStr.trim().replace(/( \(.*\))/, ''));
   const now = new Date();
