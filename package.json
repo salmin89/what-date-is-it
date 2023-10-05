@@ -1,0 +1,22 @@
+{
+  "name": "what-date-is-it",
+  "version": "1.0.0",
+  "description": "2023-10-05T11:00:01-04:00 (Thursday)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmin89/what-date-is-it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmin89/what-date-is-it/issues"
+  },
+  "homepage": "https://github.com/salmin89/what-date-is-it#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
